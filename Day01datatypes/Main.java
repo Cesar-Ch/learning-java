@@ -1,3 +1,5 @@
+import Day01datatypes.*;
+
 public class Main {
     public static void main(String[] args) {
         String name = "Jhon"; // almacena texto. Los valores de cadena están entre comillas dobles
