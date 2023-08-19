@@ -1,4 +1,4 @@
-import Day02conditionals;
+package Day02conditionals;
 
 public class Main {
     public static void main(String[] args) {

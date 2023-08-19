@@ -1,4 +1,4 @@
-import Day01datatypes;
+package Day01datatypes;
 
 public class Main {
     public static void main(String[] args) {
