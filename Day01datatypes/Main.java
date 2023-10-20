@@ -6,6 +6,7 @@ public class Main {
         System.out.println(name);
 
         byte myByte = 127; // almacena nÚmeros enteros de 8 bits mayores a -128 y menores a 127
+        //2 - 4 - 8 - 16 - 32 - 64 - 128 - 256 
         System.out.println(myByte);
 
         short myShort = 32767; // almacena nÚmeros enteros de 16 bits mayores a -32768 y menores a 32767
@@ -27,10 +28,12 @@ public class Main {
                                   // 15 decimales
         System.out.println(myDouble);
 
-        char myLetter = 'D'; // almacena un carácter
+        char myLetter = 'D'; // almacena un carácter - 16 bits
         System.out.println(myLetter);
+        char mychar = '\u0050';
+        System.out.println(mychar);
 
-        boolean myBool = true; // almacena valores booleanos
+        boolean myBool = true; // almacena valores logicos - 1 bit
         System.out.println(myBool);
 
     }
