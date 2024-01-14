@@ -2,7 +2,7 @@ package Day01datatypes;
 
 public class Main {
     public static void main(String[] args) {
-        String name = "Daniel"; // almacena texto. Los valores de cadena están entre comillas dobles
+        String name = "cholo"; // almacena texto. Los valores de cadena están entre comillas dobles
         System.out.println(name);
 
         byte myByte = 127; // almacena nÚmeros enteros de 8 bits mayores a -128 y menores a 127
