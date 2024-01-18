@@ -1,1 +1,1 @@
-# learning-java
+![learning-java](./images/learning-java-banner.svg)
