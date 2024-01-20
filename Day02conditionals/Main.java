@@ -3,6 +3,7 @@ package Day02conditionals;
 public class Main {
     public static void main(String[] args) {
         int myNum = 5;
+        // Condicional if - else if - else
         if (myNum < 5) {
             System.out.println("The number is less than 5");
         } else if (myNum == 5) {
@@ -13,6 +14,7 @@ public class Main {
 
         myNum = 6;
 
+        // Condicional switch
         switch (myNum) {
             case 5:
                 System.out.println("The number is equal to 5");
